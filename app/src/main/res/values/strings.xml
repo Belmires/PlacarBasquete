@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Placar</string>
+    <string name="limpar">Limpar</string>
+    <string name="_3_pontos">+3 PONTOS</string>
+    <string name="_2_pontos">+2 PONTOS</string>
+    <string name="lance_livre">Lance Livre</string>
+    <string name="_1_ponto">-1 Ponto</string>
+    <string name="time_a">Time A</string>
+    <string name="time_b">Time B</string>
+    <string name="_0">0</string>
+    <string name="finalizar_partida">Finalizar Partida</string>
+    <string name="reset">Reset</string>
+    <string name="pontos">pontos</string>
+    <string name="resultado">Resultado</string>
+    <string name="x">X</string>
+    <string name="times">Times</string>
+    <string name="_1_time">1º Time</string>
+    <string name="_2_time">2º Time</string>
+    <string name="digite_o_nome_do_time_aqui">Digite o nome do time aqui</string>
+    <string name="come_ar">Começar</string>
+</resources>
